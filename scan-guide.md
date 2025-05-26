@@ -1,4 +1,4 @@
-Get Your Local IP Address
+1. Get Your Local IP Address
 
 Using ifconfig or ip:
 
