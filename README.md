@@ -10,7 +10,6 @@ To discover open ports on devices within a local network to assess network expos
 
 ## 🛠 Tools Used
 
-- [Zenmap](https://nmap.org/zenmap/)
 - [Nmap](https://nmap.org/)
 - [Wireshark](https://www.wireshark.org/) *(Optional)*
 
