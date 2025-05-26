@@ -15,7 +15,7 @@
 ![Nmap Command](screenshots/nmap_scan_code.png)
 
 ## Results Summary
-[View text file](../nmap_scan_result.txt)
+[View text file](nmap_scan_result.txt)
 - Most IPs were marked as "host down" or had all ports filtered.
 - Three hosts were detected as up:
   - `192.168.152.1` – All 1000 ports filtered.
