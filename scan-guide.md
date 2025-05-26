@@ -1,4 +1,4 @@
-1. Get Your Local IP Address
+Get Your Local IP Address
 Using ifconfig or ip:
 On Linux:
 
