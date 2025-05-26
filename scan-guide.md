@@ -1,6 +1,6 @@
 Get Your Local IP Address
 Using ifconfig or ip:
-On Linux:
+On Linux:	
 
 ```bash
 ifconfig | grep inet
