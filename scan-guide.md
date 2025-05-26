@@ -1,11 +1,11 @@
-1.Get Your Local IP Address
+1. Get Your Local IP Address
 
-Using ifconfig or ip:
+  Using ifconfig or ip:
 
-On Linux:	
+  On Linux:	
 
-```bash
-ifconfig | grep inet
-# OR
-ip a | grep inet
-```
+  ```bash
+  ifconfig | grep inet
+  # OR
+  ip a | grep inet
+  ```
