@@ -1,7 +1,8 @@
 # Wireshark Protocol Analysis
 1. Running 'Wireshark' from CLI
    ![Wireshark](screenshots/wireshark_run.png)
-
+2. Capturing packets using Wireshark
+   ![Wireshark Interface](screenshots/wireshark_interface.png)
 Based on the packet capture from interface `eth0`, here is the protocol distribution:
 
 - **Total Packets:** 5155
