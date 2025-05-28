@@ -13,7 +13,8 @@ To discover open ports on devices within a local network to assess network expos
 - [Nmap](https://nmap.org/)
 - [Wireshark](https://www.wireshark.org/) *(Optional)*
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
+
 This project is for educational purposes only. Only scan networks that you own or have explicit permission to analyze.
 
 ---
